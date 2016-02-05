@@ -1,0 +1,10 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "d615a7801a9b2c2bb8e1e47d319154bc"
+build_time: [507954999, 43935000]
+inputs:
+  "/Users/zhuyun/Desktop/TestDemo/TestDemo/class/testCollectView/models/ImageModel.swift": [507865092, 0]
+  "/Users/zhuyun/Desktop/TestDemo/TestDemo/AppDelegate.swift": [507869050, 0]
+  "/Users/zhuyun/Desktop/TestDemo/TestDemo/class/testCollectView/views/ImageCell.swift": [507954998, 0]
+  "/Users/zhuyun/Desktop/TestDemo/TestDemo/ViewController.swift": [507801211, 0]
+  "/Users/zhuyun/Desktop/TestDemo/TestDemo/class/testCollectView/views/WaterLayout.swift": [507953089, 0]
+  "/Users/zhuyun/Desktop/TestDemo/TestDemo/class/testCollectView/controller/ImageScanCtl.swift": [507953379, 0]
